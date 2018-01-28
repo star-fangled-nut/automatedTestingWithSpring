@@ -1,4 +1,5 @@
-.idea.project
+.idea
+.project
 .settings
 /room-service/.settings/
 /room-service/.mvn/
