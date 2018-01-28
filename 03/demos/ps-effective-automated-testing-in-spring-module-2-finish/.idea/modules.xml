@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/booking-service/booking-service.iml" filepath="$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/booking-service/booking-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/customer-service/customer-service.iml" filepath="$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/customer-service/customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/ps-effective-automated-testing-in-spring.iml" filepath="$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/ps-effective-automated-testing-in-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/room-service/room-service.iml" filepath="$PROJECT_DIR$/../../../05/demos/ps-effective-automated-testing-in-spring-module-4-finish/room-service/room-service.iml" />
+    </modules>
+  </component>
+</project>
